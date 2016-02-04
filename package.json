@@ -1,0 +1,21 @@
+{
+  "name": "timer",
+  "version": "0.0.0",
+  "description": "Simple countdown timer.",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "build": "stack build"
+  },
+  "scripts": {
+    "test": "stack test"
+  },
+  "author": "Siphilia",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
+  }
+}
